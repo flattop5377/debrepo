@@ -1,9 +1,6 @@
+Archive: stable
+Component: main
 Origin: Flattop5377
 Label: Flattop5377 Github
-Suite: stable
-Codename: bookworm
-Architectures: source i386 amd64
-Components: main
+Architecture: i386
 Description: Flattop5377's Debian Bookworm repository used for testing and distribution of configuration and software packages.
-Contents: 
-SignWith: 57C45ECDE87035DB5D6B2AA9675DDD55F917F71F
