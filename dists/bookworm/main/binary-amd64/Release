@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Flattop5377
+Label: Flattop5377 Github
+Architecture: amd64
+Description: Flattop5377's Debian Bookworm repository used for testing and distribution of configuration and software packages.

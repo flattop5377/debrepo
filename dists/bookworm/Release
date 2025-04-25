@@ -1,0 +1,29 @@
+Origin: Flattop5377
+Label: Flattop5377 Github
+Suite: stable
+Codename: bookworm
+Date: Fri, 25 Apr 2025 18:16:32 UTC
+Architectures: amd64
+Components: main
+Description: Flattop5377's Debian Bookworm repository used for testing and distribution of configuration and software packages.
+MD5Sum:
+ d67a39d18e156485bfc6d0f5be039553 890 main/binary-amd64/Packages
+ 218df0bc5dcca223a36b9e6a64e114c2 575 main/binary-amd64/Packages.gz
+ 667831a7b4c3812f043537d3ed0fbff6 226 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ acab4a76167b07e400f00b87e7ffa10b 227 main/source/Release
+SHA1:
+ d96da6f63c7c0485efd9fb196cd72016581785ed 890 main/binary-amd64/Packages
+ 5a45b7bc15424cee15baa786a8ac7c63675ec386 575 main/binary-amd64/Packages.gz
+ a4455925b1c47c05700c7816b27123c0f7fec31f 226 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 78a5fdd3a1d7eabc0fcc556c512afe7812352784 227 main/source/Release
+SHA256:
+ 9ef0c00a7953fb99261bb0b65592124ddea18bdf6245a4d8d7cc1541cc17df6d 890 main/binary-amd64/Packages
+ 97e031bae89678c6c04bc194df6796263d1e5b2cc916e3125e5e707430b8930f 575 main/binary-amd64/Packages.gz
+ f4f5ff3e9918165607426146adb5b1fb6c5dae774ea71e1d918ccc09f6013225 226 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 9b92099795d7639136ecb1e1f4f70b8c4b0111302e3895744d6d553935eb45b2 227 main/source/Release
