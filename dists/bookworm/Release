@@ -2,49 +2,49 @@ Origin: Flattop5377
 Label: Flattop5377 Github
 Suite: stable
 Codename: bookworm
-Date: Fri, 25 Apr 2025 18:35:24 UTC
+Date: Fri, 25 Apr 2025 23:54:28 UTC
 Architectures: i386 amd64
 Components: main
 Description: Flattop5377's Debian Bookworm repository used for testing and distribution of configuration and software packages.
 MD5Sum:
- d67a39d18e156485bfc6d0f5be039553 890 main/binary-i386/Packages
- 218df0bc5dcca223a36b9e6a64e114c2 575 main/binary-i386/Packages.gz
+ 90f60bafb31973ccf77a35e517a0c795 885 main/binary-i386/Packages
+ 57265213ff3fb6e8a3ef576b14313f81 573 main/binary-i386/Packages.gz
  615f7c86d6d3571814aa2921f0748341 225 main/binary-i386/Release
- d67a39d18e156485bfc6d0f5be039553 890 main/binary-amd64/Packages
- 218df0bc5dcca223a36b9e6a64e114c2 575 main/binary-amd64/Packages.gz
+ 90f60bafb31973ccf77a35e517a0c795 885 main/binary-amd64/Packages
+ 57265213ff3fb6e8a3ef576b14313f81 573 main/binary-amd64/Packages.gz
  667831a7b4c3812f043537d3ed0fbff6 226 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  acab4a76167b07e400f00b87e7ffa10b 227 main/source/Release
- 4fb14986df76fcffed8f2cbbdcab7fdc 2595 main/Contents-i386
- d53f8c0a065ab46103b4b1776a989608 373 main/Contents-i386.gz
- 4fb14986df76fcffed8f2cbbdcab7fdc 2595 main/Contents-amd64
- d53f8c0a065ab46103b4b1776a989608 373 main/Contents-amd64.gz
+ 1dc030e4969961dc43e6831af0951879 2250 main/Contents-i386
+ 9a5b526dbc8688f8633e54a8d420c2c8 340 main/Contents-i386.gz
+ 1dc030e4969961dc43e6831af0951879 2250 main/Contents-amd64
+ 9a5b526dbc8688f8633e54a8d420c2c8 340 main/Contents-amd64.gz
 SHA1:
- d96da6f63c7c0485efd9fb196cd72016581785ed 890 main/binary-i386/Packages
- 5a45b7bc15424cee15baa786a8ac7c63675ec386 575 main/binary-i386/Packages.gz
+ 4fb654e2ab8d81e67afa4aadf636377339f39349 885 main/binary-i386/Packages
+ 449806c00b40316f1c9b6c2421af3f819d05ed10 573 main/binary-i386/Packages.gz
  7dc603af66ce6a2f67af483f7619379e4a625c11 225 main/binary-i386/Release
- d96da6f63c7c0485efd9fb196cd72016581785ed 890 main/binary-amd64/Packages
- 5a45b7bc15424cee15baa786a8ac7c63675ec386 575 main/binary-amd64/Packages.gz
+ 4fb654e2ab8d81e67afa4aadf636377339f39349 885 main/binary-amd64/Packages
+ 449806c00b40316f1c9b6c2421af3f819d05ed10 573 main/binary-amd64/Packages.gz
  a4455925b1c47c05700c7816b27123c0f7fec31f 226 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  78a5fdd3a1d7eabc0fcc556c512afe7812352784 227 main/source/Release
- 48f2298ac87fbc012d77c7057dba50de5990645e 2595 main/Contents-i386
- fc6569e710f2c15371e67c3b44d9e0eec71c059c 373 main/Contents-i386.gz
- 48f2298ac87fbc012d77c7057dba50de5990645e 2595 main/Contents-amd64
- fc6569e710f2c15371e67c3b44d9e0eec71c059c 373 main/Contents-amd64.gz
+ 3b0e9e893eead3bdecff37212fc5ad6b0af20bff 2250 main/Contents-i386
+ 9407fbc2abfb594f0e36e6369d0024f5c3f89ec9 340 main/Contents-i386.gz
+ 3b0e9e893eead3bdecff37212fc5ad6b0af20bff 2250 main/Contents-amd64
+ 9407fbc2abfb594f0e36e6369d0024f5c3f89ec9 340 main/Contents-amd64.gz
 SHA256:
- 9ef0c00a7953fb99261bb0b65592124ddea18bdf6245a4d8d7cc1541cc17df6d 890 main/binary-i386/Packages
- 97e031bae89678c6c04bc194df6796263d1e5b2cc916e3125e5e707430b8930f 575 main/binary-i386/Packages.gz
+ daacee6f4cbcb0657ed70894c2483b7ffdb65572a56183c6089dac3e273fb721 885 main/binary-i386/Packages
+ da36e07e49f67b74f54048a915386c93d8409b2f25cd0fd7fa84e8b02d8843ff 573 main/binary-i386/Packages.gz
  7cd2c6f093ecf896c6a0561ed791298b709333f48e4be63426635d16027e19b7 225 main/binary-i386/Release
- 9ef0c00a7953fb99261bb0b65592124ddea18bdf6245a4d8d7cc1541cc17df6d 890 main/binary-amd64/Packages
- 97e031bae89678c6c04bc194df6796263d1e5b2cc916e3125e5e707430b8930f 575 main/binary-amd64/Packages.gz
+ daacee6f4cbcb0657ed70894c2483b7ffdb65572a56183c6089dac3e273fb721 885 main/binary-amd64/Packages
+ da36e07e49f67b74f54048a915386c93d8409b2f25cd0fd7fa84e8b02d8843ff 573 main/binary-amd64/Packages.gz
  f4f5ff3e9918165607426146adb5b1fb6c5dae774ea71e1d918ccc09f6013225 226 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  9b92099795d7639136ecb1e1f4f70b8c4b0111302e3895744d6d553935eb45b2 227 main/source/Release
- 841b004d72d08dcb5628ef17645089a2a94bbbd7c35aa6de4a244dfc30d070d3 2595 main/Contents-i386
- 4c978b6f4d0c6ad3eeb4ceb8e289eb608d6783caa01440e9b103037fcd186d84 373 main/Contents-i386.gz
- 841b004d72d08dcb5628ef17645089a2a94bbbd7c35aa6de4a244dfc30d070d3 2595 main/Contents-amd64
- 4c978b6f4d0c6ad3eeb4ceb8e289eb608d6783caa01440e9b103037fcd186d84 373 main/Contents-amd64.gz
+ c914dcf8a86722b3c25fa62e22b580fd8389aa2ab9713ab7d70aad890e69b868 2250 main/Contents-i386
+ 8c3e91680ac4627b5b6093cebc22b290e009b26d7283fb46313560f313b99eeb 340 main/Contents-i386.gz
+ c914dcf8a86722b3c25fa62e22b580fd8389aa2ab9713ab7d70aad890e69b868 2250 main/Contents-amd64
+ 8c3e91680ac4627b5b6093cebc22b290e009b26d7283fb46313560f313b99eeb 340 main/Contents-amd64.gz
