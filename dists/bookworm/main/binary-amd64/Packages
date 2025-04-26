@@ -1,18 +1,18 @@
 Package: afirewall
-Version: 20240921.0.3-1
+Version: 20240921.0.3-2
 Architecture: all
 Maintainer: Flattop5377 <flattop5377@proton.me>
-Installed-Size: 97
-Depends: python3, python3-jinja2, netfilter-persistent
+Installed-Size: 95
+Depends: python3:any, python3, python3-jinja2, netfilter-persistent
 Multi-Arch: foreign
 Homepage: https://github.com/flattop5377/afirewall
 Priority: optional
 Section: net
-Filename: pool/main/a/afirewall/afirewall_20240921.0.3-1_all.deb
-Size: 11648
-SHA256: 6ec47dad00aafa2f193ac43a46a8b85eb62e3e692a80c7f5fad42065290e9421
-SHA1: b864523322e84cc7c93246ddbc3ea36a6022b980
-MD5sum: b7806f0150f85fd84e55c22b5187718e
+Filename: pool/main/a/afirewall/afirewall_20240921.0.3-2_all.deb
+Size: 11628
+SHA256: 6f8d48d034108ac9f4dccc701aa6ab70a92b4aa319a492c7765e5bd5c38f0e48
+SHA1: 565183ad2a942481a9b8c444d07282217df73572
+MD5sum: 1c5b113ceeb2a0c8a24b07e70af2c8d7
 Description: Pure Netfilter Firewall configured for Linux
  Pure firewall that uses nft only, is easily configured through
  Ansible, has some sane defaults for security, doesn't restrict
