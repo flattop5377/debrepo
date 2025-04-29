@@ -5,65 +5,65 @@ Origin: Flattop5377
 Label: Flattop5377 Github
 Suite: stable
 Codename: bookworm
-Date: Mon, 28 Apr 2025 23:50:05 UTC
+Date: Tue, 29 Apr 2025 18:27:13 UTC
 Architectures: i386 amd64
 Components: main
 Description: Flattop5377's Debian Bookworm repository used for testing and distribution of configuration and software packages.
 MD5Sum:
- 351d48dc19d5f1476905c1a94725085d 905 main/binary-i386/Packages
- 097f50cc1a708219948372e8cd0b894c 580 main/binary-i386/Packages.gz
+ 3dea13664ed2169c36bffdeb151431b7 905 main/binary-i386/Packages
+ 1dc283ccedab6d89b21f24614e9ca6e4 578 main/binary-i386/Packages.gz
  615f7c86d6d3571814aa2921f0748341 225 main/binary-i386/Release
- 351d48dc19d5f1476905c1a94725085d 905 main/binary-amd64/Packages
- 097f50cc1a708219948372e8cd0b894c 580 main/binary-amd64/Packages.gz
+ 3dea13664ed2169c36bffdeb151431b7 905 main/binary-amd64/Packages
+ 1dc283ccedab6d89b21f24614e9ca6e4 578 main/binary-amd64/Packages.gz
  667831a7b4c3812f043537d3ed0fbff6 226 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  acab4a76167b07e400f00b87e7ffa10b 227 main/source/Release
- ee3f01cc9108c907710258563023d93d 2561 main/Contents-i386
- f1af8083718ca1c5822d4aaf456d22ec 371 main/Contents-i386.gz
- ee3f01cc9108c907710258563023d93d 2561 main/Contents-amd64
- f1af8083718ca1c5822d4aaf456d22ec 371 main/Contents-amd64.gz
+ 234a2b4ea81c7a563a4676903f0f6a77 4379 main/Contents-i386
+ 11a50fabc7a2246f28b1df4652c815c0 452 main/Contents-i386.gz
+ 234a2b4ea81c7a563a4676903f0f6a77 4379 main/Contents-amd64
+ 11a50fabc7a2246f28b1df4652c815c0 452 main/Contents-amd64.gz
 SHA1:
- ba1af8b96e31a7b85ae9e36f16eccc3588d28ca5 905 main/binary-i386/Packages
- d7b8816a5ecff2dcdb4c312b7f1fe72582c0b300 580 main/binary-i386/Packages.gz
+ db843614411a62a77596f364164f219f7d2443bc 905 main/binary-i386/Packages
+ 0127d223f763baa12055f797ae2d361624b8fd36 578 main/binary-i386/Packages.gz
  7dc603af66ce6a2f67af483f7619379e4a625c11 225 main/binary-i386/Release
- ba1af8b96e31a7b85ae9e36f16eccc3588d28ca5 905 main/binary-amd64/Packages
- d7b8816a5ecff2dcdb4c312b7f1fe72582c0b300 580 main/binary-amd64/Packages.gz
+ db843614411a62a77596f364164f219f7d2443bc 905 main/binary-amd64/Packages
+ 0127d223f763baa12055f797ae2d361624b8fd36 578 main/binary-amd64/Packages.gz
  a4455925b1c47c05700c7816b27123c0f7fec31f 226 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  78a5fdd3a1d7eabc0fcc556c512afe7812352784 227 main/source/Release
- d74754913dfbd0460f773017da6b2989aba1cc6f 2561 main/Contents-i386
- ce0fceefbdf7cf0c095a4b0a0e75cb4d812b03a6 371 main/Contents-i386.gz
- d74754913dfbd0460f773017da6b2989aba1cc6f 2561 main/Contents-amd64
- ce0fceefbdf7cf0c095a4b0a0e75cb4d812b03a6 371 main/Contents-amd64.gz
+ 17df51659a2dc53bc97aa6fcd01e4b851a9f1633 4379 main/Contents-i386
+ 5f8cbb18b937452cf5a7e6320a55023704fef57c 452 main/Contents-i386.gz
+ 17df51659a2dc53bc97aa6fcd01e4b851a9f1633 4379 main/Contents-amd64
+ 5f8cbb18b937452cf5a7e6320a55023704fef57c 452 main/Contents-amd64.gz
 SHA256:
- 646cb59e70c72aa7170ed755536d5ff5d2542219d6a5e19eaeb349dccc5e3da0 905 main/binary-i386/Packages
- 87622153b9d8f77efccc474dc5004c79a729a3564bca1147fd4dd55d4950bae3 580 main/binary-i386/Packages.gz
+ 13824483560d4dbaba87f9fd182fd64811053b1efff2eee2eba3c69c4c89116c 905 main/binary-i386/Packages
+ 1af0041f69598e19c4bea4b5d95d219305ccd57d049cbd9301156761e0beb5d5 578 main/binary-i386/Packages.gz
  7cd2c6f093ecf896c6a0561ed791298b709333f48e4be63426635d16027e19b7 225 main/binary-i386/Release
- 646cb59e70c72aa7170ed755536d5ff5d2542219d6a5e19eaeb349dccc5e3da0 905 main/binary-amd64/Packages
- 87622153b9d8f77efccc474dc5004c79a729a3564bca1147fd4dd55d4950bae3 580 main/binary-amd64/Packages.gz
+ 13824483560d4dbaba87f9fd182fd64811053b1efff2eee2eba3c69c4c89116c 905 main/binary-amd64/Packages
+ 1af0041f69598e19c4bea4b5d95d219305ccd57d049cbd9301156761e0beb5d5 578 main/binary-amd64/Packages.gz
  f4f5ff3e9918165607426146adb5b1fb6c5dae774ea71e1d918ccc09f6013225 226 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  9b92099795d7639136ecb1e1f4f70b8c4b0111302e3895744d6d553935eb45b2 227 main/source/Release
- fc72ae3c2272bc755d55b20c8008124eee25639c7adbd470e1b8f7d894b49af0 2561 main/Contents-i386
- ee9532d14f9c9c8cbd72105e28881529d347a0dba07510f0ae1f7d1b860e958c 371 main/Contents-i386.gz
- fc72ae3c2272bc755d55b20c8008124eee25639c7adbd470e1b8f7d894b49af0 2561 main/Contents-amd64
- ee9532d14f9c9c8cbd72105e28881529d347a0dba07510f0ae1f7d1b860e958c 371 main/Contents-amd64.gz
+ 43115e7eae125f0776f534dec5d55d0ca57a49cabd6d64950cfbfe1e74ef877a 4379 main/Contents-i386
+ 1d23cf9611edc75d65da61b6533a4932535b46be3f47eff7c98aca391030c47a 452 main/Contents-i386.gz
+ 43115e7eae125f0776f534dec5d55d0ca57a49cabd6d64950cfbfe1e74ef877a 4379 main/Contents-amd64
+ 1d23cf9611edc75d65da61b6533a4932535b46be3f47eff7c98aca391030c47a 452 main/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEV8RezehwNdtdayqpZ13dVfkX9x8FAmgQFEEACgkQZ13dVfkX
-9x/uUxAApJc0BDJDi19k2/xqPGOBVn/ZjAPHe7TFEfZgoMASYKjz6Buur53qsDzA
-YltCDNX5Y83pATDW24sIMi0QU5tRKJhZTorJl0u/sjD3C8dluNbKva7y7ogCIbux
-PmM4cFLZsREJGnm0OISl5ycFQCiRfM2wL8dcwZMRZwuiZBAJlqw3RiQK7a/yl/tj
-90h5MTZnEQ1EDncHePnxnT3gLifE8BsyjM3p8I9aYwKSeaR6vAmFUUQZ9X4ecNPi
-2NqQTMMraxIZnSb5+V6+Ca0pDAdE6n5XfDy6rgSyLDrumB1jyfiZI9LkG3954kfq
-3DUlZUoF4WkBp1btR+kM8M21S3gHSy3m0XSTmw5nNcYEnLxlFWxq9Dc4WcPQgJtw
-j69Pff1pCnzakSJfPdP+czVXdIOQ13boRgZyXZkyaIfYqs8zC9aw9bGvqqgiYqR2
-msqbSJCK7s/Z5Y0hEbfK8F8O+cl8RNSUuMyL8j5eALCcnOFlKVHxQB++DpDjb9kR
-oNwDhkSWkvtMWuXTYp5zYQ6sFh3+/adbkQ5hBS6hS4IR54HtnSAitcJspsdr+Jqt
-dBCMzLK0I5akKfLTxRp7r5JFd8dOLVrgHwfUz8ncNe0NAC/sdH3j8Urngeuu1l6F
-nYE95grzSv6DOtpR46Y/ZThAITyCWQelaCrUpTtsbAswayWT8sU=
-=ayU3
+iQIzBAEBCgAdFiEEV8RezehwNdtdayqpZ13dVfkX9x8FAmgRGhgACgkQZ13dVfkX
+9x95Uw/+LT4cPRzYsuXqvuYF4WjjxdP0l59ySOTO6US341hmp+GIAgmKYJCCSDdw
+5AXYOXxm4Gz5GkJymNAhZPC8XFDwoLP9+iHWNwPY6LIXIXZ0oSpGSccZ2+LfG0+F
+hUW5oo/GGwSqAlBIsJ7BNm7n2ZK08yH7ys3OyE4nzvFLnJAn3eid0tGbzHARZKne
+zTP3ZvZAA72jGyD2Plwmceq0yL0Lc1zrLi4LaZjyCX/QiWOGV+TOM4XWSg7C1rhC
+FEABs1l5wSRSSeWnAIuM3nynQYQjCSc0kg2RjtrENDW4Sg57VstJdj6dMrvH3Clb
+WlfOqddnYPzwpFuvyfVd1w180yp051pnqt48eLJkRy81qkYz3Fi5LQmMV+T59XtY
+PIs63C8/cSJ3cXOvT9Roj5v6vC4AecUbhn00cUk+TvkOckDxVI8XA2Zh+hZyd3II
+wi9vm2of65r0XauUIQH2PjfMRem4oXOPOTf9DvMdJ/FLfQtE5+c08GlDqgDGxSEE
+KY4KnHS240p8IhV79YH0L1/s5E2U3Op1YDx0HiGWoOMelinYx7bsJ6B1vPiECpO3
+KE+O9TlMH+gM3BSqqD6dwW9Aq6kuBpepQHsshXl6vG/U7GiJ9NJWrgmGp+uRygoV
+qwWer5CrWoTcynn1KPys1gHaq3X62IRUodeOZWAnOyd5bX+jEQw=
+=3XTN
 -----END PGP SIGNATURE-----
