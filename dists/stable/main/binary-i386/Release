@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Flattop5377
+Label: Flattop5377 Github
+Architecture: i386
+Description: Flattop5377's Debian repository for configuration and software packages. Codename-neutral on purpose: the packages here are Architecture: all and pure Python, so tying the suite to a Debian release meant republishing for every one of them and left trixie hosts pointing at a bookworm path.
