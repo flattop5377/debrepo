@@ -5,16 +5,16 @@ Origin: Flattop5377
 Label: Flattop5377 Github
 Suite: stable
 Codename: stable
-Date: Mon, 17 Aug 2026 22:38:22 UTC
+Date: Mon, 17 Aug 2026 23:10:04 UTC
 Architectures: i386 amd64
 Components: main
 Description: Flattop5377's Debian repository for configuration and software packages. Codename-neutral on purpose: the packages here are Architecture: all and pure Python, so tying the suite to a Debian release meant republishing for every one of them and left trixie hosts pointing at a bookworm path.
 MD5Sum:
- ba4caac32efaef16b963ba688e31a2d8 930 main/binary-i386/Packages
- 596339f65356dcde54b475a0fa43f9ac 602 main/binary-i386/Packages.gz
+ 5cc36a703503d2da4ea61d15da60a275 930 main/binary-i386/Packages
+ 2b817cc5d30bc2e54ab994179ddf05b5 601 main/binary-i386/Packages.gz
  bab7d1fc41f62c6d4de43845d2873709 400 main/binary-i386/Release
- ba4caac32efaef16b963ba688e31a2d8 930 main/binary-amd64/Packages
- 596339f65356dcde54b475a0fa43f9ac 602 main/binary-amd64/Packages.gz
+ 5cc36a703503d2da4ea61d15da60a275 930 main/binary-amd64/Packages
+ 2b817cc5d30bc2e54ab994179ddf05b5 601 main/binary-amd64/Packages.gz
  210edc9c1b8689f2613f4dd3f5b5b267 401 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -24,11 +24,11 @@ MD5Sum:
  1395e56882ecd515fcc7da1dc6676d39 1038 main/Contents-amd64
  45883e4282ac0e96121fe5b5c9b27038 245 main/Contents-amd64.gz
 SHA1:
- 7709502eb376ede57e01a24acff55468fedbf259 930 main/binary-i386/Packages
- cd970d186f45b02ce9e5dd6bc456522adfb5c494 602 main/binary-i386/Packages.gz
+ ce6eb7490a87051a2bbd043c58946f7c052212ad 930 main/binary-i386/Packages
+ 3dda37ac1a99970e62ccc23abd6a82ccd08e7f08 601 main/binary-i386/Packages.gz
  fcca10190f2aa5c16b3aedc80c7ff6778eaa44d4 400 main/binary-i386/Release
- 7709502eb376ede57e01a24acff55468fedbf259 930 main/binary-amd64/Packages
- cd970d186f45b02ce9e5dd6bc456522adfb5c494 602 main/binary-amd64/Packages.gz
+ ce6eb7490a87051a2bbd043c58946f7c052212ad 930 main/binary-amd64/Packages
+ 3dda37ac1a99970e62ccc23abd6a82ccd08e7f08 601 main/binary-amd64/Packages.gz
  4ed161f3ee74a1e3882da130525ceb26586904e5 401 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -38,11 +38,11 @@ SHA1:
  5a377d1b40533882514e2bad4932fe8215dec492 1038 main/Contents-amd64
  2c98163101f90b8d88d388cd7dfa2e23436b048b 245 main/Contents-amd64.gz
 SHA256:
- fbc8d20d94a47e0544c3341648f34e88cfe84a0444af0d31710649b5f4d60246 930 main/binary-i386/Packages
- eeeb58e324edd06e11c0ef09a61f946b507d6b79ad297252a3e976834f809ced 602 main/binary-i386/Packages.gz
+ 36e19e25671c2726a662e8183c45dcb2325d247254119659641bc013dab02104 930 main/binary-i386/Packages
+ 7638453d9aca71d43f240a40e5c14904585e9d8c4ef40c4b066fe56726f64b56 601 main/binary-i386/Packages.gz
  128c0ea5fa67d4ccaf80a26c379dd504fc490da97abbab9a6bb93b64ef1395dd 400 main/binary-i386/Release
- fbc8d20d94a47e0544c3341648f34e88cfe84a0444af0d31710649b5f4d60246 930 main/binary-amd64/Packages
- eeeb58e324edd06e11c0ef09a61f946b507d6b79ad297252a3e976834f809ced 602 main/binary-amd64/Packages.gz
+ 36e19e25671c2726a662e8183c45dcb2325d247254119659641bc013dab02104 930 main/binary-amd64/Packages
+ 7638453d9aca71d43f240a40e5c14904585e9d8c4ef40c4b066fe56726f64b56 601 main/binary-amd64/Packages.gz
  6d26bf0b3299ecb9ec6d73a0a3b02466e33ba024c00419656c8faa572b3a483c 401 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
@@ -53,17 +53,17 @@ SHA256:
  60f7d351fed136e24d1a80e5443826cce9eea88668e32d7a3c69129e7b49e687 245 main/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE718tHfx6fK5rn3bF5ahUttB4wQgFAmqDjV4ACgkQ5ahUttB4
-wQhmpg//QT/ariVtcJf6/OW2ACX1WScZHvZXpT/W7ozXAGUyWVoCLdg0Ws/yqN17
-Gkbpqt+/erJmD1mWbnqThpRY9qeZfWvDl+ldIp1iOV0R3J0EzdafV7kt2D7zFdu0
-Jzo9bNacD/G0VANjl+nrI6kNJ6sJ1SOjDbqXwt4kS3xLZqds582bjh4r3UjgUboF
-erY/eFH2LL3Q9kVDMxxJPGLjd+Qzam5fdnXyQStzsOpRLI5uaHKN5LmWB0humn+i
-Yvbbq9fNMfC5vkv3VV2xMpIjC8y7I+GN2c25PCn6ZS1db0/ZiPpFf9P7jmxlvw8T
-947XiZKq6R++tsiWwiJXUYRCakzao2/iizmxeGiOFh9RNGuGoR5cGSMuHwQYLMBH
-0xWfEkQC3HiY+RfMsIobzHCNsoMjx73VX7KvU/esba2pSUx8Jr12u2/pyWdSdige
-HF2FOX6mOtHUpBNVRWbrAzSJ9tUQoT0rF+iH3VfB7gdC6rphxY5oWuAk39jgxrJR
-L5eC81lhCqnWVfiSObjeon+KznjaTi7SttUVZuTiOavqCnDnpXLQxNWZXZuG8iet
-Qx9IVPDfsb866nCGRRreE2fJJDnn0fkaFc71texDKE0d8GspSCH8um71gxDYUnN1
-wDGmoy96uj/VNOavgebpslJX+J+gyBCiN0+jklFtwO1wfr+pVc8=
-=Buho
+iQIzBAEBCgAdFiEE718tHfx6fK5rn3bF5ahUttB4wQgFAmqDlMwACgkQ5ahUttB4
+wQjwxw/9GicA3Q08B60JwQJ6av0NA1JL3GNvJILZ64SHZVk5BzvwJsyPu1r+es8X
+2w45WSw5prnwMOwqk6TNUVH8/0NWMvZqBzl3ta2HZDtAW8bVJKV/bHOvLfvFGgJV
+QPeRimNCnc4E3aTXZCBFi/mABlIxpwjuA6nL7KebLHdWnvt0uIRCKDTVDyJkY6At
+Z9JLWftxoNSUJarOydtnV3wsaHsn85VZtAYs/MeMWY2QifT8aya1SUzZx1PniW9+
+v/ADrxmerNA62CzpS0o9PzIDUz49LCVarO2+JofpPtIhjIn2ju4b2fPuTS1K4NCw
+hRguHoPQZX34rtWY5tyEWHQCKDC+4nIBSKnU7zcQ+thWIaHMJbbkm/lIHyBhMuux
+fy10wvYwdUJUJdNNqHc34t0WKtPzc2uwzJwFCuAjFgI/fCh6TWvAVLEaeBYbm/6F
+6oXDQ58kUX4abba1n31vemzDJhDpcs6devRCAlIOpllRSf7fVzCHe8kAHtEdc3z7
+uBGWu9+ADWScCMZNYRIP7W2fcyhUCKcQ6eYBivurGnkXUacO77CW43fJExhp6bVz
+HERxmJA1kka8FoB6cHmoozc9lBp0FPyvusiT7y4lMv26LSV2xAi/7dGAzAycQ5av
+8X6cL2pZHNLxoHemZ46q0eM+kkxWF91piqZpyyVQwPl2AJYg8PU=
+=we9M
 -----END PGP SIGNATURE-----
