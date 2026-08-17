@@ -2,16 +2,16 @@ Origin: Flattop5377
 Label: Flattop5377 Github
 Suite: stable
 Codename: stable
-Date: Mon, 17 Aug 2026 20:37:23 UTC
+Date: Mon, 17 Aug 2026 22:24:51 UTC
 Architectures: i386 amd64
 Components: main
 Description: Flattop5377's Debian repository for configuration and software packages. Codename-neutral on purpose: the packages here are Architecture: all and pure Python, so tying the suite to a Debian release meant republishing for every one of them and left trixie hosts pointing at a bookworm path.
 MD5Sum:
- 3ccd6e507b600f56c499def017f390bd 930 main/binary-i386/Packages
- 1b12ea1b590e80247d4ad09e61b4b69f 603 main/binary-i386/Packages.gz
+ ea3c94ca317a503e3d5c534846e74f62 930 main/binary-i386/Packages
+ eed71404729378da6005911d1d080936 600 main/binary-i386/Packages.gz
  bab7d1fc41f62c6d4de43845d2873709 400 main/binary-i386/Release
- 3ccd6e507b600f56c499def017f390bd 930 main/binary-amd64/Packages
- 1b12ea1b590e80247d4ad09e61b4b69f 603 main/binary-amd64/Packages.gz
+ ea3c94ca317a503e3d5c534846e74f62 930 main/binary-amd64/Packages
+ eed71404729378da6005911d1d080936 600 main/binary-amd64/Packages.gz
  210edc9c1b8689f2613f4dd3f5b5b267 401 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -21,11 +21,11 @@ MD5Sum:
  1395e56882ecd515fcc7da1dc6676d39 1038 main/Contents-amd64
  45883e4282ac0e96121fe5b5c9b27038 245 main/Contents-amd64.gz
 SHA1:
- f14587abd52f55cd15bfc5ac8562cefe22af80ac 930 main/binary-i386/Packages
- a4c3ee7ff0f5f788cf666827e988e6812eb0aea6 603 main/binary-i386/Packages.gz
+ c4154426318a379bc28a18c8e2a3f81d79514a95 930 main/binary-i386/Packages
+ d3954690df956506c309d15f76a673c5be654ff6 600 main/binary-i386/Packages.gz
  fcca10190f2aa5c16b3aedc80c7ff6778eaa44d4 400 main/binary-i386/Release
- f14587abd52f55cd15bfc5ac8562cefe22af80ac 930 main/binary-amd64/Packages
- a4c3ee7ff0f5f788cf666827e988e6812eb0aea6 603 main/binary-amd64/Packages.gz
+ c4154426318a379bc28a18c8e2a3f81d79514a95 930 main/binary-amd64/Packages
+ d3954690df956506c309d15f76a673c5be654ff6 600 main/binary-amd64/Packages.gz
  4ed161f3ee74a1e3882da130525ceb26586904e5 401 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -35,11 +35,11 @@ SHA1:
  5a377d1b40533882514e2bad4932fe8215dec492 1038 main/Contents-amd64
  2c98163101f90b8d88d388cd7dfa2e23436b048b 245 main/Contents-amd64.gz
 SHA256:
- 3fe87ebb3ae7f94e0df747615495f252663b08223e10682eb5f475b9b6bcc53d 930 main/binary-i386/Packages
- 7e66d4250673c12c47ad41935f4b7f7fffd3c86778cdf18acc819d96704cbdde 603 main/binary-i386/Packages.gz
+ 2a8e66e5299d5aa34cc963f8745aaeb81741bae0ace475509a383f17fc0eea2c 930 main/binary-i386/Packages
+ 8fb1fa73079acfd56cc26ccd9fb8032b2bfa4d6652f2d8d1ac61b16aa61db6b4 600 main/binary-i386/Packages.gz
  128c0ea5fa67d4ccaf80a26c379dd504fc490da97abbab9a6bb93b64ef1395dd 400 main/binary-i386/Release
- 3fe87ebb3ae7f94e0df747615495f252663b08223e10682eb5f475b9b6bcc53d 930 main/binary-amd64/Packages
- 7e66d4250673c12c47ad41935f4b7f7fffd3c86778cdf18acc819d96704cbdde 603 main/binary-amd64/Packages.gz
+ 2a8e66e5299d5aa34cc963f8745aaeb81741bae0ace475509a383f17fc0eea2c 930 main/binary-amd64/Packages
+ 8fb1fa73079acfd56cc26ccd9fb8032b2bfa4d6652f2d8d1ac61b16aa61db6b4 600 main/binary-amd64/Packages.gz
  6d26bf0b3299ecb9ec6d73a0a3b02466e33ba024c00419656c8faa572b3a483c 401 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
