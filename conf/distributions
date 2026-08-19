@@ -6,4 +6,4 @@ Architectures: source i386 amd64
 Components: main
 Description: Flattop5377's Debian repository for configuration and software packages. Codename-neutral on purpose: the packages here are Architecture: all and pure Python, so tying the suite to a Debian release meant republishing for every one of them and left trixie hosts pointing at a bookworm path.
 Contents: 
-SignWith: 57C45ECDE87035DB5D6B2AA9675DDD55F917F71F
+SignWith: 208BC1279656FEEA7C2F9A1D830604D51CA7D4FB
