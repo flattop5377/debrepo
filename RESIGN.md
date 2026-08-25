@@ -9,7 +9,7 @@ two places — `conf/flattop5377.public.asc` and inline in the `Signed-By:` bloc
 `conf/flattop5377.sources` — and the rotation updated one of them, so a host
 following the README installed the revoked key while the file beside it said
 otherwise. Both are gone. `conf/flattop5377.sources` now names
-`/etc/apt/keyrings/flattop5377.asc`, and the README has the operator fetch the key
+`/etc/apt/keyrings/flattop5377.gpg`, and the README has the operator fetch the key
 from a keyserver by fingerprint. A keyserver carries a revocation; a copy checked
 in beside the thing it authorises cannot.
 
@@ -43,5 +43,5 @@ is the served tree, so the push *is* the deploy.
 Afterwards, on a host that already has the old key installed, the new one has to
 be fetched before `apt update` can verify anything — the README has the commands:
 
-    gpg --show-keys /etc/apt/keyrings/flattop5377.asc   # must be 208BC127, not revoked
+    gpg --show-keys /etc/apt/keyrings/flattop5377.gpg   # must be 208BC127, not revoked
     sudo apt update                                     # no NO_PUBKEY, no bad signature
