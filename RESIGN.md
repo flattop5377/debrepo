@@ -1,5 +1,9 @@
 # Re-sign after the 2026-08-18 key rotation
 
+> The two signing commands below are also the general answer to *reprepro could not sign this
+> export* — which is what happens on a host using Split GPG, because reprepro signs through gpgme
+> and gpgme spawns `/usr/bin/gpg` directly. See `PUBLISH.md`.
+
 `SignWith` and the install instructions are already updated on this branch. The
 two signatures below still carry the revoked key `57C45ECD…F917F71F` and must be
 replaced on a machine holding the secret half of `208BC127…D4FB`.
